@@ -31,6 +31,4 @@ Bu repo, Amazon hisse senedi fiyatları üzerinde makine öğrenmesi ve zaman se
 2. Her klasördeki README dosyalarını ve Jupyter not defterlerini inceleyin.
 3. Not defterlerini adım adım çalıştırarak analizleri ve sonuçları gözlemleyin.
 
-## Katkı ve Lisans
-- Katkıda bulunmak için fork ve pull request gönderebilirsiniz.
-- Bu proje MIT lisansı ile paylaşılmıştır.
+
