@@ -9,7 +9,7 @@ Bu repo, Amazon hisse senedi fiyatları üzerinde makine öğrenmesi ve zaman se
   - `README.md`: Klasör içeriği ve analiz adımlarının özeti.
 
 - **zamansal_seri_analiz/**
-  - `zamansal_seri_analizi copy.ipynb`: Zaman serisi analizi, ARIMA ve SARIMA model karşılaştırmaları, trend ve mevsimsellik incelemesi.
+  - `zamansal_seri_analizi.ipynb`: Zaman serisi analizi, ARIMA ve SARIMA model karşılaştırmaları, trend ve mevsimsellik incelemesi.
   - `README.md`: Zaman serisi analiz adımlarının özeti.
 
 - **Amazon_stock_data.csv**: Tüm analizlerde kullanılan ham veri dosyası.
@@ -30,5 +30,6 @@ Bu repo, Amazon hisse senedi fiyatları üzerinde makine öğrenmesi ve zaman se
 1. Gerekli kütüphaneleri yükleyin (örn. `scikit-learn`, `xgboost`, `statsmodels`, `matplotlib`, `pandas`).
 2. Her klasördeki README dosyalarını ve Jupyter not defterlerini inceleyin.
 3. Not defterlerini adım adım çalıştırarak analizleri ve sonuçları gözlemleyin.
+
 
 
