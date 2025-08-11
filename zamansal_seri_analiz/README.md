@@ -3,7 +3,7 @@
 Bu klasörde, Amazon hisse senedi fiyatlarının zaman serisi analizi yapılmaktadır. Analiz kapsamında temel istatistiksel incelemeler, durağanlık testleri, trend ve mevsimsellik ayrıştırması, ARIMA ve SARIMA gibi modellerle tahmin ve model karşılaştırmaları yer almaktadır.
 
 ## İçerik
-- `zamansal_seri_analizi copy.ipynb`: Tüm analiz adımlarını ve kodları içeren Jupyter not defteri.
+- `zamansal_seri_analizi.ipynb`: Tüm analiz adımlarını ve kodları içeren Jupyter not defteri.
 - `../Amazon_stock_data.csv`: Kullanılan ham veri dosyası.
 
 ## Adımlar
@@ -23,3 +23,4 @@ Bu klasörde, Amazon hisse senedi fiyatlarının zaman serisi analizi yapılmakt
 ## Notlar
 - Veri dosyasının yolunun doğru olduğundan emin olun ("../Amazon_stock_data.csv").
 - Analiz, örnek veriyle yapılmıştır. Kendi verinizle de aynı adımları uygulayabilirsiniz.
+
